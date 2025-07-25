@@ -614,7 +614,7 @@
             </div>
             <div class="gift-box" id="giftBox2">
                 <span class="box-emoji">🎁</span>
-                <img src="https://frugivore-bucket.s3.amazonaws.com/media/package/img_one/2021-01-25/Hersheys_Kisses_Milk_Chocolates_100.8g_.jpg">
+                <img src="https://clickcuisineuae.com/cdn/shop/products/Hershey-s-Kisses-Milk-Chocolate-100gm-Kisses-1667800620.jpg?v=1667800622&width=990">
             </div>
         </div>
     </div>
