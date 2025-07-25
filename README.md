@@ -1027,5 +1027,9 @@ Enjoy every moment and keep smiling! 💛`;
             initializeGame();
         });
     </script>
+    <audio id="bg-music" autoplay loop>
+  <source src="birthday.mp3" type="audio/mpeg">
+</audio>
+
 </body>
 </html>
