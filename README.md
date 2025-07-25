@@ -614,7 +614,7 @@
             </div>
             <div class="gift-box" id="giftBox2">
                 <span class="box-emoji">🎁</span>
-                <img src="https://www.menchies.com/images/flavors/uploads/flavor-label/hersheyskisses_weblabel.png" alt="Hershey's Kisses Gift" class="gift-reveal-photo">
+                <img src="https://frugivore-bucket.s3.amazonaws.com/media/package/img_one/2021-01-25/Hersheys_Kisses_Milk_Chocolates_100.8g_.jpg">
             </div>
         </div>
     </div>
